@@ -1,7 +1,3 @@
-# alx_be_python
-Directory: control-flow
-File: match_case_calculator.py
-
 num1 = float(input("Enter the first number:1"))
 num2 = float(input("Enter the second number:2"))
 operation = input("choose the operation (+,-,*,/):")
